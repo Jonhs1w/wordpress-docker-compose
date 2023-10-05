@@ -1,6 +1,7 @@
 # WPDC - WordPress Docker Compose
 
 Easy WordPress development with Docker and Docker Compose.
+blablabla
 
 With this project you can quickly run the following:
 
